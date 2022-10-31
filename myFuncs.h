@@ -1,7 +1,5 @@
 #pragma once
 #include "IntArray.h"
-//#include <cstdlib>
-//#include <cmath>
 
 int protectInput(std::string & str);
 
